@@ -1,0 +1,8 @@
+prefix=/home/sam/catkin-workspace/install
+
+Name: droplet_underwater_assembly
+Description: Description of droplet_underwater_assembly
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy message_generation

@@ -1,0 +1,8 @@
+prefix=/home/sam/catkin-workspace/install
+
+Name: stag_ros
+Description: Description of stag_ros
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lstag_ros -lstag_lib
+Requires: std_msgs roscpp image_transport image_transport nodelet std_msgs message_generation geometry_msgs

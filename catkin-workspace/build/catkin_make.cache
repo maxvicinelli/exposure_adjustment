@@ -1,0 +1,2 @@
+droplet_underwater_assembly:exposure_adj:spinnaker_sdk_camera_driver:stag_ros
+-DCATKIN_DEVEL_PREFIX=/home/sam/catkin-workspace/devel -DCMAKE_INSTALL_PREFIX=/home/sam/catkin-workspace/install -G Unix Makefiles

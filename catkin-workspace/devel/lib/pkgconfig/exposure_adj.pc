@@ -1,0 +1,8 @@
+prefix=/home/sam/catkin-workspace/devel
+
+Name: exposure_adj
+Description: Description of exposure_adj
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

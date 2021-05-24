@@ -1,0 +1,22 @@
+(cl:in-package droplet_underwater_assembly-msg)
+(cl:export '(HEADER-VAL
+          HEADER
+          CURRENT_ACTION-VAL
+          CURRENT_ACTION
+          ACTIVE_BUILD_STEP-VAL
+          ACTIVE_BUILD_STEP
+          SWITCHED_THIS_FRAME-VAL
+          SWITCHED_THIS_FRAME
+          CURRENT_ACTION_IS_STARTED-VAL
+          CURRENT_ACTION_IS_STARTED
+          CURRENT_ACTION_TYPE-VAL
+          CURRENT_ACTION_TYPE
+          CURRENT_LOCATION-VAL
+          CURRENT_LOCATION
+          GOAL_LOCATION-VAL
+          GOAL_LOCATION
+          MOVE_TOLERANCE-VAL
+          MOVE_TOLERANCE
+          ACTION_SEQUENCE_ID-VAL
+          ACTION_SEQUENCE_ID
+))
